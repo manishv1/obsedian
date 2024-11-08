@@ -1,0 +1,1 @@
+The "tasks.json" file, on the other hand, enables developers to define custom tasks and build configurations, automating repetitive tasks and enhancing the project's build process.
